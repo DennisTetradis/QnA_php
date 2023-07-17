@@ -1,0 +1,25 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .light-mode {
+    background-color: white;
+    color: black;
+  }
+
+  .dark_button{
+    position: absolute;
+    right: 0;
+    margin-top: 1%;
+  }
+  .light_button{
+    position: absolute;
+    right: 0;
+  }
+

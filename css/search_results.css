@@ -1,0 +1,32 @@
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.results {
+  margin: 0 auto;
+  width: 50%;
+  padding: 10px;
+  height: 100vh;
+  list-style: none;
+}
+
+.question {
+  margin: 1em;
+}
+
+.question__title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.question__body {
+  font-size: 1em;
+}
+
+.question__metadata {
+  font-size: 0.8em;
+  color: #999;
+}
